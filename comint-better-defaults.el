@@ -1,4 +1,4 @@
-;;; comint-better-defaults - better defaults for comint-derived modes
+;;; comint-better-defaults.el - better defaults for comint-derived modes
 
 ;; Copyright (C) 2013 Nathaniel Flath <nflath@gmail.com>
 
