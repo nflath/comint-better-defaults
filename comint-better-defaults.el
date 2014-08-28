@@ -1,8 +1,8 @@
 ;;; comint-better-defaults.el --- better defaults for comint-derived modes
 
-;; Copyright (C) 2013 Nathaniel Flath <nflath@gmail.com>
+;; Copyright (C) 2013 Nathaniel Flath <flat0103@gmail.com>
 
-;; Author: Nathaniel Flath <nflath@gmail.com>
+;; Author: Nathaniel Flath <flat0103@gmail.com>
 ;; URL: http://github.com/nflath/comint-better-defaults
 ;; Version: 1.0
 
